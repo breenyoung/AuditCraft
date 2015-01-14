@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WowDotNetAPI</id>
+    <version>3.1.1</version>
+    <title>WowDotNetAPI</title>
+    <authors>briandek,  Enixor,  Harley Carter</authors>
+    <owners>briandek,  Enixor,  Harley Carter</owners>
+    <licenseUrl>http://www.opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/briandek/WowDotNetAPI</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net library for the World of Warcraft Community Platform AP</description>
+    <releaseNotes>Auction house updates</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <language />
+    <tags>Wow Community-Platform Warcraft</tags>
+  </metadata>
+</package>
